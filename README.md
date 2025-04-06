@@ -8,7 +8,7 @@ I possess a strong passion for continuous learning and advancement within the so
 
 - 💬 Ask me about **Python, MySQL**
 
-- 📫 How to reach me **osemenjoy@gmail.com**
+- 📫 How to reach me **osemenjoy448@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1SFb-G1mLMVlwbNJ4iQVrtC04qFdJCWzg?usp=sharing](https://drive.google.com/drive/folders/1SFb-G1mLMVlwbNJ4iQVrtC04qFdJCWzg?usp=sharing)
 
