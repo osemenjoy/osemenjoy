@@ -97,9 +97,12 @@ I'm particularly interested in how backend engineering and AI can come together 
 <a href="https://leetcode.com/osemen" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"/>
 </a>
+<a href="https://x.com/__osemen" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" width="40" height="40"/>
+</a>
 </p>
 
-📫 **Email:** [osemenjoy448@gmail.com](mailto:osemenjoy448@gmail.com)
+📫 **Email:** [osemenjoy02@gmail.com](mailto:osemenjoy02@gmail.com)
 
 ---
 
